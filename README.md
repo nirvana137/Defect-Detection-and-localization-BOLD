@@ -6,7 +6,7 @@ This project focuses on detecting and localizing bolts using image processing an
 
 **Requirements**
 - PyTorch
-- -OpenCV3
+- OpenCV3
 - NumPy
 - PIL
 - scikit-image
